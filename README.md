@@ -1,4 +1,4 @@
-# Detect-changes-binance
+# Detect changes on binance website
 
 
 ## Steps to run :
