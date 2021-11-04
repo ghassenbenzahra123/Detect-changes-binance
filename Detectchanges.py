@@ -9,7 +9,7 @@ from selenium.webdriver.support import expected_conditions as ec
 from selenium import webdriver
 
 sender = "scrappercrypto@gmail.com"
-receivers = ["ghazi@napoleonx.ai"]
+receivers = ["Enter Email Here"]
 chromedriver_autoinstaller.install()
 
 url = "https://www.binance.com/en/futures-activity/leaderboard?type=myProfile&encryptedUid=8D27A8FA0C0A726CF01A7D11E0095577"
